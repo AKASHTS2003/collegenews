@@ -66,4 +66,4 @@ This project is licensed under the [MIT License](LICENSE).
 - **Reminders:** Setting up reminders for tasks and events.
 - **User Posts:** A unique feature to allow students to share content with their peers.
 
-The project is built using **Flutter** for the frontend and **SQLite** for data storage, ensuring data privacy and local management of user data. The intuitive interface and tailored features aim to foster seamless exchanges of ideas and experiences among students within the college ecosystem【4†source】.
+The project is built using **Flutter** for the frontend and **SQLite** for data storage, ensuring data privacy and local management of user data. The intuitive interface and tailored features aim to foster seamless exchanges of ideas and experiences among students within the college ecosystem.
